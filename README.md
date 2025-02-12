@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexia Crawford
 - 😄 Pronouns: she/her
-- 👀 I’m interested in continuing to learn throughout the school year and getting a job next summer.
+- 👀 I’m excited to learn new things throughout the school year and get an internship.
 - 🌱 I’m currently learning how to code in various different languages at the University of Oregon.
 - 💞️ I’m looking to collaborate on anything that will provide experience in the real world of computer science.
 - 📫 Contact me @ alexia.crawford@gmail.com 

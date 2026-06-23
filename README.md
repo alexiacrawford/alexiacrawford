@@ -1,4 +1,4 @@
-- Hi, I’m Alexia Crawford
+- Hi, I’m Alexia!
 - Pronouns: she/her
 - 📫 Contact me @ alexia.crawford@gmail.com 
 
